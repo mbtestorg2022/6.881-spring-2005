@@ -4,31 +4,252 @@ title: Lecture Notes
 uid: 8bace91d-9f2d-6d98-8abf-c4b35aafbe65
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introduction, Tutorial on PCA ([PDF]({{< baseurl >}}/resources/l01)) |
-| 2 | Eigenfaces ([PDF]({{< baseurl >}}/resources/l02)) |
-| 3 | Active Appearance Models |
-| 4 | Tutorial on EM |
-| 5 | Learning Flexible Sprites in Video Layers |
-| 6 | LLE and other Manifold Learning Methods |
-| 7 | EM Segmentation |
-| 8 | Tutorial on Calculus of Variations |
-| 9 | Mumford-Shah |
-| 10 | Snakes |
-| 11 | Geodesic Active Contours |
-| 12 | Shape Based Curve Evolution ([PDF]({{< baseurl >}}/resources/shapecurves)) |
-| 13 | Tutorial on Clustering |
-| 14 | Spectral Clustering |
-| 15 | Normalized Cuts |
-| 16 | Graph Cuts for Energy Minimization |
-| 17 | Belief Propagation ([PDF]({{< baseurl >}}/resources/bptutorial)) |
-| 18 | SIFT |
-| 19 | Constellation Model |
-| 20 | Shape Context |
-| 21 | Local Descriptors |
-| 22 | Object Recognition |
-| 23 | Finite Element Models |
-| 24 | Non-rigid Registration using B-splines |
-| 25 | Belief Propagation in Image Analysis |
-| 26 | Doing Photogrammetry Right
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Tutorial on PCA ([PDF]({{< baseurl >}}/resources/l01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Eigenfaces ([PDF]({{< baseurl >}}/resources/l02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Active Appearance Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial on EM
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Learning Flexible Sprites in Video Layers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+LLE and other Manifold Learning Methods
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+EM Segmentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial on Calculus of Variations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Mumford-Shah
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Snakes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Geodesic Active Contours
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Shape Based Curve Evolution ([PDF]({{< baseurl >}}/resources/shapecurves))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial on Clustering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Spectral Clustering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Normalized Cuts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Graph Cuts for Energy Minimization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Belief Propagation ([PDF]({{< baseurl >}}/resources/bptutorial))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+SIFT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Constellation Model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Shape Context
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Local Descriptors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Object Recognition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Finite Element Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Non-rigid Registration using B-splines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Belief Propagation in Image Analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Doing Photogrammetry Right
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
